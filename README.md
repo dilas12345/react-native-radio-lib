@@ -1,10 +1,20 @@
-#React native radio is created to ease some, stress feel free to use at your own pace.
+# react-native-radio-lib
 
-#npm i react-native-radio-lib
+> Open your terminal or command prompt and install npm install react-native-radio-lib.
 
-#import {RadioButton, RadioGroup} from 'react-native-radio-lib';
+In computer science, this is known as an implementation of quasiquotes.
 
-###View example below###
+## Install
+
+```sh
+npm install --save react-native-radio-lib
+```
+
+## Usage
+
+import {RadioButton, RadioGroup} from 'react-native-radio-lib';
+
+## Example
 
 	render(){
 		return(
@@ -33,13 +43,4 @@
 
                 </RadioGroup>
               </View>
-)
-}
 
-#Note
-
-if there is any bug related to the module, please feel free pull a request so, it can be fixed
-
-thanks 
-
-Enjoy.
