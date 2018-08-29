@@ -1,0 +1,19 @@
+{
+  "name": "react-native-radio-lib",
+  "version": "1.0.1",
+  "description": "radio, button, ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node.js, npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/dilas12345"
+  },
+  "keywords": [
+    "radio",
+    "buttons"
+  ],
+  "author": "Yusuph Dilas Che",
+  "license": "MIT"
+}
