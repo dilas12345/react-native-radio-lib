@@ -2,7 +2,7 @@
 
 #npm i react-native-radio-lib
 
-#import radiobutton from 'react-native-radio-lib';
+#import {RadioButton, RadioGroup} from 'react-native-radio-lib';
 
 ###View example below###
 
